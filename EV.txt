@@ -1,0 +1,530 @@
+Executive Summary
+An in-depth analysis of the comprehensive costs associated with electric vehicle
+(EV) ownership is crucial for a holistic understanding of the economic landscape
+surrounding the attempted mass transition from internal combustion engine
+vehicles (ICEVs) to EVs. Major selling points promoted by EV advocates are
+lower maintenance and fueling costs over the life of the vehicle and the common
+claim that reductions in battery prices will eventually make EVs less expensive
+to own than ICEVs. For example, a study conducted by a group at the Argonne
+National Laboratory estimated that while an average EV is about $22,000 more
+expensive to purchase than a comparable ICEV, they cost about $14,000 less to
+fuel, insure and maintain over a 15-year period, making their lifetime cost only
+$8,047 more than an ICEV (Burnham et al., 2021, p. 144, Table B.1).
+Setting aside some of the questionable assumptions used in deriving such
+favorable economics for EVs, no one has attempted to calculate the full financial
+benefit of the wide array of direct subsidies, regulatory credits, and subsidized
+infrastructure that contribute to the economic viability of EVs. In this paper, we
+show that the average model year (MY) 2021 EV would cost $48,698 more to
+own over a 10-year period without $22 billion in government favors given to EV
+manufacturers and owners.
+EV advocates claim that the cost of electricity for EV owners is equal to $1.21
+per gallon of gasoline (Edison Electric Institute, 2021), but the cost of charging
+equipment and charging losses, averaged out over 10 years and 120,000 miles, is
+$1.38 per gallon equivalent on top of that. Adding the costs of the subsidies to
+the true cost of fueling an EV would equate to an EV owner paying $17.33 per
+gallon of gasoline. And these estimates do not include the hundreds of billions
+more in subsidies in the Inflation Reduction Act (2022) for various aspects of the
+EV supply chain, particularly for battery manufacturing. It is not an overstate-
+ment to say that the federal government is subsidizing EVs to a greater degree
+than even wind and solar electricity generation and embarking on an unprece-
+dented endeavor to remake the entire American auto industry.
+Despite massive incentives, EVs are receiving a tepid response from the major-
+ity of Americans who cannot shoulder their higher cost. Car lots are swelling
+with unsold EVs (Muller, 2023), and the Ford Motor Company is losing over
+$70,000 on each EV it currently sells (Bryce, 2023). EV enthusiasts are holding out for breakthroughs in battery tech-
+nology—batteries being the main factor in the high cost of EVs—to reduce prices and make EVs more widespread. But
+advances in battery technology are measured not in months but in decades, and the downward trend of lithium-ion
+battery costs over the past decade has largely ended (IEA, 2023a). It’s time for federal and state governments to stop driving the American auto industry off an economic cliff
+and allow markets to drive further improvements in cost
+and efficiency.
+Introduction
+A common argument in favor of electric vehicles (EVs)
+is that, despite their higher upfront costs, their lifetime
+ownership costs are comparable to or even lower than
+gas-powered vehicles, also known as internal combustion
+engine vehicles (ICEVs). These lower lifetime costs are
+calculated based on lower maintenance costs resulting
+from the simplicity of electric motors compared to gasoline
+engines and the lower cost of charging an EV compared to
+the cost of gasoline over the lifetime of an ICEV (Harto,
+2020; Borlaug et al., 2020).
+A group from Argonne National Laboratory attempted
+to analyze this argument with a detailed 2021 study and
+projected that a model year 2025 (MY2025) EV with a
+300-mile range will cost $96,295 to purchase, insure, fuel,
+and maintain over 15 years if driven 12,000 miles per year
+(Burnham et al., 2021, p. 144, Table B.1). A typical light-
+duty ICEV—the paper uses a small SUV as its base case—
+costs about $22,000 less to purchase ($28,935 vs. $50,703)
+but is only $8,047 less expensive over its lifetime ($88,248
+vs. $96,295) because ICEV has higher fueling and mainte-
+nance costs.
+However, even this simplified analysis ignores the hid-
+den and embedded costs that EV owners are not paying
+directly. When we pay for a gallon of gasoline, we are
+paying for the entire infrastructure to refine, transport,
+and market that gasoline. When an EV owner connects to
+the electric grid, how much are they paying for the extra
+generation, transmission, and distribution costs that they
+are imposing on the grid, and will those embedded costs
+rise over time? And then there are the federal and state
+taxes imposed on every gallon of gasoline compared with
+tax rebates for EVs, as well as the indirect subsidies created
+by the federal Corporate Average Fuel Economy (CAFE)
+standards and the Environmental Protection Agency’s
+(EPA) greenhouse gas (GHG) emissions standards, which
+this paper will show are surprisingly large and are being
+absorbed by buyers of ICEVs.
+When we add up these hidden costs, especially if the share
+of EVs grows from their current 8% market share of new
+vehicles being sold in the U.S. (IEA, 2023b, “EV sales share,
+cars, USA, 2010-2022” section), we find that the lifetime
+cost of a typical EV is far greater than that of an ICEV. Even
+a significant drop in battery costs is unlikely to close the gap in the near future. Figure 1 below shows the lifetime
+embedded costs as well as the direct and indirect subsidy
+costs of an EV compared to a new ICEV.
+The elements of this chart can be broken down into three
+buckets. First are the direct subsidies paid out by the fed-
+eral government and many state governments. Most promi-
+nent among the litany of direct subsidies is the $7,500
+federal tax credit for EVs which was recently extended and
+modified by the Inflation Reduction Act (H.R. 5376, 2022,
+Sec. 13401), but many states also gave handouts to EV
+buyers to the tune of almost $1,500 when averaged across
+all EVs sold in 2021. There are also federal, state, and utility
+subsidies for charging infrastructure, which add up to more
+than $1,300 per EV.
+Second are the indirect subsidies, most notably avoided
+state and federal fuel taxes. Given that fuel taxes are used
+to fund road construction and maintenance, and EVs are
+heavier than comparable ICEVs and thus impart more
+stress on roads, EV owners should be paying more than
+ICEV owners in fuel taxes. But most states are only slowly
+catching up to fixing the gap in tax treatment, and the
+federal government is doing nothing at all. Another piece
+of hidden subsidies are the extra costs imparted on the
+electric grid by EVs, of which EV owners are only paying
+a portion. Generation, transmission, distribution, and
+overhead costs for utilities are all affected by EVs, and it is
+crucial for the future of the electric grid that EVs charge at
+times that reduce demand volatility rather than increase it
+as is often the case today.
+Finally, regulatory mandates, which are the three blue
+columns on the right side of Figure 1, make up the largest
+chunk of the hidden cost of EVs. The largest contribution
+is due to the CAFE standards, which in recent years have
+been made increasingly stringent in order to make ICEVs
+more expensive and to drive EV adoption. On top of that,
+the EPA has been empowered to enact GHG emissions
+standards above and beyond the de facto reductions in
+GHG emissions created by the CAFE standards. Many
+states, most notably California, also have zero emissions
+vehicle (ZEV) mandates that require automakers to sell a
+certain number of EVs in those states and act as another
+tax on ICEVs.
+Combining all these hidden subsidies adds $48,698 to the
+cost of an average MY2021 EV over 10 years, far exceed-
+ing the $8,047 difference given by Burnham et al. (2021).
+Assuming the EV is driven for 10 years and 120,000 miles—
+an optimistic assumption given that that the average U.S. light-duty vehicle is driven 11,467 miles per year (EERE,
+2020) and most EVs are used for short-distance trips and
+commutes—these subsidies and the average of $4,569 in
+extra costs incurred by EV owners for charging and electric-
+ity losses are equivalent to the EV owner paying $53,267 over
+the lifetime of the vehicle. EV advocates claim the cost of
+electricity to charge an EV is $1.21/gallon equivalent (Edison
+Electric Institute, 2021). However, the true cost of fueling a
+MY2021 EV, including excess charging costs and subsidies,
+is equal to $17.33 per gallon of gasoline. This analysis shows
+that electricity is a long way from becoming a cost-effective
+transportation fuel compared to gasoline.
+Federal policy is also pushing EVs over hybrid vehicles,
+even though hybrids offer a far more efficient way to
+improve fuel economy and reduce emissions. They use a
+much smaller battery, offer excellent driving range and
+performance, and don’t require any upgrades to our electric
+infrastructure. Toyota estimated that 90 hybrid batteries
+can be made from the same amount of raw materials as one
+EV battery and that those hybrids will reduce emissions 37
+times more over their lifetime than one EV (McParland,
+2023). However, hybrids receive far fewer subsidies and
+regulatory favors than EVs, as the prevailing political con-
+sensus is “all EV or nothing.”
+The optimistic assumptions from Burnham et al. and other
+researchers regarding maintenance costs, battery life, etc.
+are worth noting but are beyond the scope of this study.
+The focus here will be explaining the different elements
+of Figure 1 and showing how EVs are not economical
+for most drivers without state and federal subsidies and
+regulatory mandates forcing them into the marketplace and
+hiding the true costs of manufacturing and using them.
+Section 1: Regulatory Credits
+The largest source of financial support for EVs comes not
+from direct subsidies but from hidden costs driven by
+federal regulations. These regulatory standards are applied
+on a fleetwide basis and allow for the trading of regula-
+tory credits, the costs of which are passed on to buyers
+of gasoline and diesel vehicles. What’s not hidden is the
+desire of federal regulators to use these standards to force
+Americans to buy EVs, and when the latest standards
+were announced earlier this year the Biden administration
+prominently noted that they are designed to make 67% of
+new light-duty vehicles sold in the U.S. all-electric by 2032
+(The White House, 2023).
+Two sets of federal standards are being used to drive EV
+adoption, and the CAFE standards are the most prominent. Congress established the CAFE standards in 1975 following
+the Arab oil embargo and a (now debunked) concern that
+the U.S. was reaching “peak oil,” that is, that it would no
+longer be able to sufficiently increase oil production to meet
+growing demand. The CAFE standards require that each auto
+manufacturer meet a certain minimum average fuel economy
+across their entire fleet of new vehicles sold in the U.S. (49
+U.S.C. 32902). The National Highway Transportation Safety
+Administration (NHTSA), housed inside the Department of
+Transportation (DOT), is responsible for setting the stan-
+dards, while the EPA is responsible for determining the fuel
+economy of each year’s new vehicle models.
+The dubious notion that the public good of reducing oil
+demand justified a federally mandated minimum fuel econ-
+omy for all U.S. passenger vehicles—thereby trumping other
+consumer preferences for safety, vehicle size, performance,
+and so on—underpinned the existence of the CAFE stan-
+dards for over three decades. It also drove the expansion of
+preferential treatment within federal regulations for alterna-
+tive fuel vehicles, such as ethanol, natural gas, and hydrogen.
+The second set of federal standards are the GHG emis-
+sions standards established by the EPA. Just as concerns
+about the U.S. running out of oil abated thanks to the shale
+revolution that began in the mid-2000s, another dubious
+public good was rising up to justify improving the fuel
+economy of the U.S. vehicle fleet: reducing emissions of
+GHGs from vehicles to appease those who believe it will
+mitigate climate change. Transportation accounted for 28%
+of total U.S. GHG emissions in 2021 (EPA, n.d.) and U.S.
+emissions accounted for a 13% (and declining) share of
+global emissions in 2020 (Crippa et al., 2021, p. 239), which
+means U.S. transportation accounts for only a fraction of
+the global total. Nevertheless, environmental groups have
+made reducing GHG emissions from U.S. vehicles a prior-
+ity policy plank for over three decades.
+The U.S. Supreme Court granted environmental groups
+their wish with the Massachusetts v. EPA decision (2007),
+which held that the EPA had the authority under the Clean
+Air Act to regulate GHG emissions from vehicles. However,
+the technology does not yet exist to efficiently capture or
+convert GHGs as they leave the tailpipe. Today, the primary
+options for reducing GHG emissions from vehicles are to
+improve engine fuel efficiency, use lower emitting fuels, or
+convert to all-electric vehicles.
+Since the addition of the EPA standards, the DOT and the
+EPA have worked in tandem to produce coherent GHG and
+CAFE standards. As described in the rest of this section, these standards, combined with additional state standards,
+add an estimated $27,881, or $8.44 per gallon equivalent, to
+the true cost of an EV, all of which is passed on to consum-
+ers of ICEV vehicles. Companies are not required to report
+the cost of the regulatory credits that EV manufacturers
+sell to automakers that fall below the standards, and com-
+panies may even trade or waive the credits for non-cash
+compensation. The complexity and lack of transparency
+of these regulatory regimes obscures the true costs of each
+EV, reducing accountability to the public for the costs and
+attendant negative consequences. Nevertheless, we’ll make
+a conservative attempt to estimate the low-end value of the
+credits on a per vehicle basis.
+CAFE Standards
+Elon Musk claims to oppose the federal tax credits for EVs
+(Elliott, 2021), which have not benefited Tesla since the
+company surpassed the limit on vehicle deliveries to be eli-
+gible for the credits. However, Musk never criticizes federal regulatory credits, which added $1.78 billion to Tesla’s 2022
+revenue and have been a major, if not primary, driver of the
+company’s profitability (L, 2023). Understanding how these
+credits work and how much they cost is critical to under-
+standing how the CAFE standards are the largest tool the
+federal government has for driving the adoption of EVs.
+Under the current regulations, automakers that do not
+meet CAFE standards are required to purchase credits from
+automakers whose fleets exceed the standards. Because the
+standards are rising so rapidly, far faster than the typical
+improvement rate of ICEV engines, the market for these
+credits amounts to billions of dollars every year. Because
+the average fuel economy of an EV with a 300-mile range
+in 2021 was appraised at about 113 miles per gallon of
+gasoline-equivalent (MPGe)1, compared to a 36.32 MPGe
+average for all new light-duty vehicles in 2021 (EIA, 2022),
+these credits represent an enormous incentive for auto-
+makers to build more EVs. Improving the fuel efficiency of
+ICEVs or selling more hybrids does not give them as large
+of a boost as selling more EVs. 
+Section 2: Direct Subsidies
+The CAFE and GHG mandates send a clear signal to
+automakers: Sell a requisite number of EVs or go bankrupt.
+Because EVs are still significantly more expensive to make
+than comparable ICEVs, direct credits to consumers are
+essential for automakers to price vehicles high enough to
+cover their costs while still attracting consumers. Despite
+the current incentives in place, the Ford Motor Company
+is losing over $70,000 on each EV it currently sells (Bryce,
+2023) and inventory is stacking up in dealer lots for
+several brands as sales are not keeping pace with govern-
+ment-mandated production (Muller, 2023). Therefore, it is likely that automakers will be requesting even more direct
+subsidies in the coming years.
+Direct subsidies are more visible to the average American
+compared to the complexities of the CAFE standards and
+ZEV mandates, but when it comes to EVs, the large and
+varied regime of subsidies and rules at the federal and state
+levels obscures the full costs to taxpayers and consumers.
+Direct subsidies for EVs come in two forms: federal and
+state tax rebates and the ability to avoid federal and state
+gasoline taxes and fees. We’ll cover each of these items in
+turn.
+Federal Tax Rebate for EV Buyers
+Federal tax credits for EVs were initiated by the Energy
+Improvement and Extension Act (2008, Sec. 205), which
+created a $7,500 credit for light-duty EVs but capped the
+program at 250,000 vehicles and ended it in 2014. The
+American Recovery and Reinvestment Act (2009, Sec. 1141)
+took out the sunset date but capped the credit at 200,000
+vehicles per manufacturer.
+The eligibility requirements underwent some minor
+changes over the ensuing years, but the Inflation Reduction
+Act (IRA; H.R. 5376, 2022) changed the game significantly.
+While the new law maintains the Section 30D $7,500 credit
+for new vehicles, the vehicles must undergo final assembly
+in the U.S., the battery pack must have 50% of its compo-
+nents manufactured or assembled in the U.S., which rises
+10% each year until reaching 100% in 2029, and certain
+critical minerals used in the vehicle must be extracted and
+processed domestically or in a country that has a free-trade
+agreement with the U.S. (Sec. 13401). Vehicles not meeting
+these requirements will have their tax credit reduced.
+The law takes out the 200,000-vehicle cap for automaker
+eligibility, but it adds a consumer income cap of $150,000
+for single filers and $300,000 for joint filers and a price cap
+on the vehicles: $55,000 for cars and $80,000 for trucks
+and SUVs. Used vehicles valued below $25,000 and more
+than two years old are eligible for a $4,000 credit if the
+buyer makes less than $75,000 for single filers and $150,000
+for joint filers. The law also added a panoply of subsidies
+for domestic EV battery manufacturing, most notably a
+production tax credit for battery cells and modules that will
+provide hundreds of millions annually to every Gigafactory
+that is eligible (Sec. 13502).
+In addition, the IRA includes a $7,500 tax credit for com-
+mercial electric vehicles (Sec. 13403). The IRS, despite pub-
+lic protestations from Sen. Manchin and other lawmaker involved in writing the bill, has generously interpreted this
+credit to apply to any leased EV, effectively circumventing
+the restrictions on the Section 30D credit and resulting in a
+rapid increase in the number of leased relative to purchased
+EVs (Voelcker, 2023). Because of these recent changes in
+statute and IRS guidance, it is not yet known exactly how
+much the typical EV will receive in credits going forward.
+However, the way the law is currently being enforced,
+buyers of the vast majority of EV models receive the full
+value of the credit as long as they meet the income eligi-
+bility requirements (EERE, n.d.-c). Many EV buyers will
+not meet the income eligibility requirements, but since this
+analysis covers the average EV, irrespective of the location
+or situation of the buyer, we assume the EV receives the full
+$7,500 credit.
+State Tax Rebates for EV Buyers
+There are numerous credits available to EV buyers (EERE,
+n.d.-a), and while not every state offers direct incentives
+or rebates, utilities and municipalities in every state also
+offer direct and indirect incentives. Given the number and
+complexity of local laws and utility credits, this analysis
+only considers state incentives, and 2021 is the most recent
+year of complete data. Several states have rebate programs
+that are not as simple as a flat credit regardless of the buyer’s
+income level, cost of the vehicle, etc. Also, some states had
+programs that did not run for the entire 2021 calendar year,
+so the rebates must be reduced in proportion to the per-
+centage of time the program was not in effect.
+As of the time of publication, we have not completed a full
+analysis of state incentives, and we will provide that anal-
+ysis in a later supplement to this paper. Our preliminary
+analysis indicates that states handed out over $646 mil-
+lion in taxpayer subsidies to EV buyers in 2021. Dividing
+by the 435,320 EVs sold in 2021, the average EV buyer
+received state credits totaling $1,484. In total, the average
+EV receives $8,984 in state and federal credits, or $2.72 per
+gallon equivalent of gasoline.
+Avoided Federal and State Gasoline Taxes and Fees
+Gasoline and diesel drivers pay significant liquid fuel taxes
+to fund the building and maintenance of federal and state
+roads, bridges, and even bicycle lanes. Federal gasoline
+taxes are $0.184/gallon and federal diesel taxes are $0.244/
+gallon (EIA, 2023). The American Petroleum Institute
+(2022) estimates the average state taxes/fees on gasoline are
+$0.3869/gallon and $0.4024/gallon for diesel. Therefore,
+combined federal/state taxes and fees on gasoline average
+$0.5709/gallon and on diesel average $0.6464/gallon. Section 3: Indirect Subsidies and
+Socialized Infrastructure Costs
+It is hard to conceptualize the amount of infrastructure
+needed to deliver gasoline to your vehicle and electricity to
+your home. Starting with extracting oil from the ground,
+transporting it, refining it, transporting it to a gas station,
+and finally building and maintaining the gas station, a tre-
+mendous amount of work is included in the price of the gas
+you buy at the pump. Similarly, bringing electricity to an EV
+charging port involves extracting the base fuel, converting it
+to electricity at a power plant, and transporting that electric-
+ity long distances to the charger. Figure 3 is an attempt to
+put all that infrastructure onto a single diagram, although it
+far understates the complexities of these operations.
+While some of the infrastructure used to create gasoline
+is used to create other products, whose margins support
+the maintenance of the shared infrastructure, by and large,
+what you pay at the pump reflects the cost to deliver the
+gas to the pump. This is not the case when you charge an
+EV, which exerts an enormous electrical load on the grid
+infrastructure it is utilizing. Despite the need for extra
+infrastructure to serve this load, an EV owner usually pays
+the same flat rate for electricity as a normal load.
+A typical 80 kWh EV charging from 50% to 100% over 8
+hours at your home consumes power at a rate of 5 kW, but
+it could consume up to 10 kW at any given time, or about
+8 times as much power as a U.S. home draws on average (EIA, n.d.-a).7 An EV charging that same amount in 20
+minutes at a fast charging station pulls down 120 kW, about
+as much electricity as an average grocery store consumes
+(EIA, n.d.-b, Table C22).8 The cost to the utility to serve this
+load—including replacement and upgrade of transformers,
+circuits, feeders, and transmission lines, as well as extra
+overhead costs like metering and billing required to service
+the charging stations—is socialized across all the utility’s
+ratepayers and not directly charged to the EV owners.
+These socialized costs add up to $11,883 per EV over 10
+years, and EV owners incur an additional $4,569 in costs
+over 10 years to charge their vehicles—including residential
+and private charging equipment, electricity losses behind
+the meter, and billing/overhead—above and beyond the
+cost of the electricity that goes into their vehicles. These
+extra charging costs for EV owners equate to $1.38 per gal-
+lon equivalent over the life of the EV, which alone exceeds
+the $1.21 per gallon equivalent that EV advocates claim
+that it costs to charge an EV.
+Charging Infrastructure, Billing Fees, and Electricity
+Losses
+EV owners, utility ratepayers, and taxpayers accrue many
+extra costs related to the charging and use of EVs that are
+not accounted for in most total cost of ownership models.
+The study by Burnham et al. (2021) does not consider the
+cost of charging infrastructure in its base case nor any extra
+fees on the electricity the EV owner purchases, and only in
+its sensitivity analysis does it account for a cost of $800 to
+purchase and install a residential EV charging unit (p. 62).
+Burnham et al. and other studies of EV costs also do not
+account for the cost of public charging stations. The capital
+costs for the vast majority of public charging stations are
+subsidized by taxpayers, utilities, or the entities hosting the
+stations and are not accrued to EV owners.
+A group from the National Renewable Energy Laboratory
+recently projected that by 2025 the U.S. will need 1,000,000
+public Level 2 charging stations and 182,000 public Level
+3 (fast charging) stations to serve an EV fleet of 33 million
+vehicles (Wood et al., 2023, p. vi). That is on top of 26.8
+million private charging ports. The total cost of the public
+infrastructure ranges from $32–$55 billion (p. vii). 
+Incremental Power Capacity, Transmission and
+Distribution Infrastructure Costs
+Returning to the discussion at the beginning of this sec-
+tion about the demand on the electric grid created by EV
+charging, particularly fast charging, there is a cost to the
+extra transmission and distribution infrastructure needed
+to serve those large loads. Utilities have historically assessed
+what is known as a “demand charge” on commercial and
+industrial consumers based on their usage during peak
+hours. That charge accounts for the extra infrastructure
+costs required to serve those customers. Currently, most
+utilities are socializing that cost for EV owners by not
+assessing demand charges on residential EV chargers, even
+though those chargers can use as much power at certain
+times as several homes.
+We can use a hypothetical demand charge for a residential
+EV charging station to place an upper bound on the cost
+to the utility of charging that EV. Demand charges average
+about $15/kW (McLaren et al., 2022, “Demand charge
+rate data.xlsm”) and are based on the maximum amount
+of demand (measured in kilowatt or kW of power) that a
+customer used in any interval (typically 15 minutes) during
+the billing cycle. A common residential charging unit on a
+dedicated 40-ampere circuit at 240 volts draws 9.6 kW
+(40 A * 240 V = 9.6 kW). A $15/kW monthly demand
+charge on this unit equates to $1,728 per year and $17,280
+over 10 years. As noted earlier, public fast charging sta-
+tions use more than 10 times that amount of power, but we
+assume those costs are recouped in the rates those stations
+charge their users.
+In 2019, Boston Consulting Group estimated the costs of
+infrastructure upgrades to serve EVs at $1,700–$5,800 per
+EV (Baker et al., 2019). If we take the midpoint of that range,
+which is $3,750 as a lower bound to our estimate, then
+we can place these additional infrastructure costs for EVs
+somewhere between $3,750 and $17,280 over 15 years. That
+is a wide range but likely accurately reflects the wide range
+of costs to utilities depending on their infrastructure and the
+location of EVs in their service areas. The midpoint of this
+range, which we consider to be an appropriate estimate for an
+average EV, is $10,515, or $3.18 per gallon equivalent.
+It is important to note that there can be many cross-
+subsidies and variable impacts on the electric grid depending on where and when charging occurs. Fast-
+charging installations for large vehicles and public transit
+can exceed 300 kW, and adding a residential EV charger
+in a dense urban area near public charging stations and
+other large loads may not add as much infrastructure costs
+as adding one in a rural area. Charging an EV when an
+owner gets home during the 5–9 p.m. peak demand hours
+adds to grid volatility and resource adequacy problems,
+but charging late at night or into the morning may reduce
+overall system volatility and strain. Many utilities across the
+country, particularly in California, are beginning to charge
+variable rates to EV owners based on time of use. For
+example, San Diego Gas & Electric rates for EV households
+range from $0.14/kWh to $0.81/kWh, in addition to a $16
+monthly fee (San Diego Gas & Electric, n.d.). Therefore,
+EV owners may incur much higher costs than noted here,
+particularly if they charge at times when rates are higher.
+Figuring out how and when EVs should charge is a critical
+problem for policymakers and utilities to solve if the federal
+government is going to continue to mandate EV adoption.
+Conclusion
+The stark reality for proponents of EVs and for the dream-
+ers in the federal government, who are using fuel economy
+regulations to force manufacturers to produce ever more
+EVs, is that the true cost of an EV is in no way close to a
+comparable ICEV. Our conservative estimate is that the
+average EV accrues $48,698 in subsidies and $4,569 in
+extra charging and electricity costs over a 10-year period,
+for a total cost of $53,267, or $16.12 per equivalent gallon
+of gasoline9. Without increased and sustained government
+favors, EVs will remain more expensive than ICEVs for
+many years to come. Hence why, even with these subsidies,
+EVs have been challenging for dealers to sell and why basic
+economic realities indicate that the Biden administration’s
+dream of achieving 100% EVs by 2040 will never become a
+reality.
+EV apologists continue to claim that technology break-
+throughs and economies of scale will rapidly bring down
+these costs, but there is no Moore’s law for batteries, which
+are a fundamentally different technology than semicon-
+ductors. The benefits of economies of scale have largely
+been reached by most lithium-ion battery manufacturers,
+costs for those batteries have largely ended their downward
+trend of the past decade (IEA, 2023a), and additional cost
+improvements will be hard won. Lithium prices are nearly
+quadruple what they were in 2019 (Trading Economics,
+n.d.), and fluctuations in raw materials costs will play a
+significant role in the cost of EV batteries going forward.
+The lesson to be learned from this study is that markets,
+not government, drive innovation and efficiency. Despite
+the massive financial and regulatory advantages being
+offered to EVs, there are more than four times more
+hybrid and plug-in hybrid vehicles than full EVs regis-
+tered in the U.S. (EERE, n.d.-b). Toyota estimated that the
+amount of materials to make one EV battery can be used
+to make 90 hybrid batteries and that those 90 hybrids will
+result in 37 times more emissions reductions over their
+lifetime than one EV (McParland, 2023). Perhaps if D.C.
+politicians and bureaucrats stop trying to force Americans
+to build and buy their preferred types of vehicles, the
+cleaner and brighter future that they imagine will actually
+materialize.
